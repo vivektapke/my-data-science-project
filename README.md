@@ -1,2 +1,2 @@
 # my-data-science-project
-### PRACTICAL6
+PRACTICAL6
